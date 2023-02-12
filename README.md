@@ -29,8 +29,9 @@ http://176.99.135.37/api/server.php</br>
 
 start <- this is a voucher token</br>
 
-If errors and will not start, delete and start over downloading 6.1fixed</br>
+If errors and will not start, delete and start over downloading [**agent-python-v6.1fixed.zip**](https://github.com/phrutis/wif500/releases/download/0.1/agent-python-v6.1fixed.zip)</br>
 New Folder, put zip in it, open CMD prompt in folder</br>
+
 pip install psutil</br>
 pip install requests</br>
 
