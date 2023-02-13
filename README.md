@@ -7,12 +7,8 @@ You can search by yourself with WifSolverCuda or take part in the pool.
 
 ## Terms of participation in the pool</br>
 47% - Whose agent will find the key.</br>
-33% - organizers.</br>
-20% - All agents in the current task will receive (total 9 tasks).</br>
-In each task, each agent has a % completed. 100 btc = 100%</br>
-If you searched in task L5 and then stopped.</br>
-The key was found in the L3 task, only Only those who searched in the L3 task will receive % of the pool.</br>
-You can choose to search in any of the tasks, or in all at once.
+33% - Organizers.</br>
+20% - 100 btc is divided among all participants in the pool.</br>
 
 ## How to connect to the pool?
 ### WINDOWS</br>
