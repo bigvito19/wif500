@@ -10,6 +10,19 @@ You can search by yourself with WifSolverCuda or take part in the pool.
 33% - Organizers.</br>
 20% - 100 btc is divided among all participants in the pool.</br>
 
+
+If there is a key, we will find it!</br>
+Don't wait, search now</br>
+Demo access to the Pool server:</br>
+http://176.99.135.37</br>
+Demo</br>
+Demo1234
+
+If you are ready 24/7 to participate in the search, be added to the group of [**WIF500**](https://t.me/+emIkxGlP6HhhYzJi)</br>
+If you have any questions, you can ask them in the group.</br>
+Unable to connect, the group will help you.</br>
+(**who will be added and will not search will be removed!**)
+
 ## How to connect to the pool?
 ### WINDOWS</br>
 Download agent https://github.com/macpunk9010/remotos/raw/main/agent-python-0.7.0.zip</br>
@@ -103,18 +116,6 @@ The search speed is several times higher.</br>
 There is support for multigpu.</br>
 Accurate statistics</br>
 There are no fakes, how much passed, so much is your% of the pool.
-
-If there is a key, we will find it!</br>
-Don't wait, search now</br>
-Demo access to the server:</br>
-http://176.99.135.37</br>
-Demo</br>
-Demo1234
-
-If you are ready 24/7 to participate in the search, be added to the group of [**WIF500**](https://t.me/+emIkxGlP6HhhYzJi)</br>
-If you have any questions, you can ask them in the group.</br>
-Unable to connect, the group will help you.</br>
-(**who will be added and will not search will be removed!**)
 
 Addition:
 One of the hunters contacted the owner of the diary to find out more. information from the owner. The owner is from India.</br>
